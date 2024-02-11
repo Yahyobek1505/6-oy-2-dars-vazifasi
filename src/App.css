@@ -1,8 +1,9 @@
 .card-wrapper{
-  width: 1440px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  max-width: 1340px;
+  margin-left: 3%;
   gap: 15px;
 }
 .headTitle{

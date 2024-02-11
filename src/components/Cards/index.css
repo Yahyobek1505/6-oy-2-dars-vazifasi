@@ -2,6 +2,7 @@
 .card{
   width: 300px;
   border: 1px solid #eee;
+  box-shadow: 0 4px 4px #ccc;
 }
 .img{
   width: 300px;
@@ -9,6 +10,7 @@
 }
 .cardTitle{
   margin-left: 10px;
+  font-size: 22px;
 }
 .date{
   margin-left: 10px;
