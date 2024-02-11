@@ -3159,6 +3159,8 @@ function App() {
  
   return (
     <>
+    <h1 className="headTitle">Welcome to our AutoGallery </h1>
+    <div className="card-wrapper">
      {
       data.map((el, index) => {
         return (
@@ -3166,6 +3168,8 @@ function App() {
         )
       })
      }
+        
+        </div>
     </>
   );
 }

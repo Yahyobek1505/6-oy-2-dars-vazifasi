@@ -1,0 +1,14 @@
+.card-wrapper{
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.headTitle{
+  width: 400px;
+  margin: 0 auto;
+  background: #c8f482;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
